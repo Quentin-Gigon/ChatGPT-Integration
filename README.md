@@ -13,7 +13,7 @@ This repository contains a Unity project that demonstrates the integration of Op
 
 1. Clone the repository to your local machine.
 2. Open the Unity project using Unity 3D.
-3. In the Unity editor, navigate to the `ChatGPTUI` game object in the Hierarchy panel.
+3. In the Unity editor, navigate to the `ChatGPTManager` game object in the Hierarchy panel.
 4. Assign your OpenAI API Key to the `ChatGPTIntegration` script component.
 5. Run the Unity project.
 
